@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "removeComments": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "allowSyntheticDefaultImports": true,
+    "target": "esnext",
+    "outDir": "dist",
+    "rootDir":"./src",
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "incremental": true,
+
+
+  },
+  "exclude": ["/node_modules"]
+}
